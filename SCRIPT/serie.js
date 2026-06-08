@@ -37,10 +37,10 @@ const serie = [
     },
   ]
 
-  const listaserie= document.getElementById ("listaSerie");
+  const listaSerie= document.getElementById ("listaSerie");
   function mostrarSerie(lista) {
     listaSerie.innerHTML =""
-    lista.forEach(Serie => {
+    lista.forEach(serie => {
         listaSerie.innerHTML += `
          <div class="col-md-4">
            <div class="card card-serie h-100">
@@ -55,7 +55,7 @@ const serie = [
     })
   }
 
-  mostrarserie(serie)
+  mostrarSerie(serie)
 
   function verDetalhes(titulo,descricao) {
     Swal.fire({

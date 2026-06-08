@@ -37,7 +37,7 @@ const filmes = [
     }
   ]
 
-  const listaFilmes = document.getElementById("listaFilmes");
+  const listaFilmes = document.getElementById ("listaFilmes");
   function mostrarFilmes(lista) {
     listaFilmes.innerHTML =""
     lista.forEach(filme => {
