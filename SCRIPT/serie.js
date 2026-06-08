@@ -34,7 +34,7 @@ const serie = [
         titulo:"Dragon Boll",
         imagem:"https://m.media-amazon.com/images/M/MV5BYTgyMzA5MjEtNDY3Ny00ZDkyLWJhYzEtYzI2Nzk5Mzc3ZDk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         descricao:"Dragon Ball Super é uma sequência oficial de Dragon Ball Z, criada por Akira Toriyama. A história acompanha Goku e seus amigos após a derrota de Majin Boo, trazendo a paz para a Terra. O enredo se expande para o multiverso, onde os heróis enfrentam deuses, participam de torneios interuniversais e quebram limites de poder para proteger seus mundos."
-    }
+    },
   ]
 
   const listaserie= document.getElementById ("listaSerie");
