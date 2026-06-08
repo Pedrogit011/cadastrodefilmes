@@ -39,9 +39,9 @@ const serie = [
 
   const listaserie= document.getElementById ("listaSerie");
   function mostrarSerie(lista) {
-    listaserie.innerHTML =""
+    listaSerie.innerHTML =""
     lista.forEach(Serie => {
-        listaserie.innerHTML += `
+        listaSerie.innerHTML += `
          <div class="col-md-4">
            <div class="card card-serie h-100">
            <img src="${serie.imagem}" class="card-img-top">
