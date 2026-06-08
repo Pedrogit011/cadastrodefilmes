@@ -50,9 +50,10 @@ const filmes = [
            <p>${filme.descricao}</p>
            <button class="btn btn-dark" onclick="verDetalhes('${filme.titulo}, ${filme.descricao}') ">Ver Detalhes</button>
         </div>
+      </div>
     </div>
         `
-    })
+    });
   }
 
   mostrarFilmes(filmes)
