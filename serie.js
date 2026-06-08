@@ -38,10 +38,10 @@ const serie = [
   ]
 
   const listaseries= document.getElementById ("listaSerie");
-  function mostrarSeries(lista) {
-    listafilmes.innerHTML =""
+  function mostrarSerie(lista) {
+    listaserie.innerHTML =""
     lista.forEach(Serie => {
-        listafilmes.innerHTML += `
+        listaserie.innerHTML += `
          <div class="col-md-4">
            <div class="card card-filme h-100">
            <img src="${serie.imagem}" class="card-img-top">
