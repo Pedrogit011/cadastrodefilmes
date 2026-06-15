@@ -35,7 +35,7 @@ const filmes = [
         imagem:"https://m.media-amazon.com/images/M/MV5BMzNhZTdmNDYtNTA0NC00MmNmLWIzYjUtNjg5NzNlYWQ0N2E5XkEyXkFqcGc@._V1_.jpg",
         descricao:"Jujutsu Kaisen 0 conta a história de Yuta Okkotsu, um jovem assombrado pelo espírito monstruoso e superpoderoso de sua amiga de infância, Rika. Após ser salvo da execução por Satoru Gojo, Yuta é matriculado na Escola de Jujutsu para aprender a controlar essa maldição e usá-la para o bem."
     }
-  ]
+  ];
 
   const listaFilmes = document.getElementById ("listaFilmes");
   function mostrarFilmes(lista) {
