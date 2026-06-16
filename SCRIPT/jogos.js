@@ -12,7 +12,7 @@ const jogos = [
     },
 
     {
-        titulo:"Fortinete",
+        titulo:"Fortnite",
         imagem: "https://cdn2.unrealengine.com/fneco-keyart-25-layered-1200x1200-1200x1200-5706180c6d33.jpg",
         descricao: "Fortnite é um jogo eletrônico multijogador gratuito e plataforma online desenvolvido pela Epic Games"
     },
