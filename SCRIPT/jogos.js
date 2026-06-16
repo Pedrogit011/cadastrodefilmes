@@ -13,7 +13,7 @@ const jogos = [
 
     {
         titulo:"Fortinete",
-        imagem: "https://assets.xboxservices.com/assets/e3/e5/e3e53d82-ba68-472b-be93-ca4a5373ff94.png?n=MSXC-games-and-apps-Fortnite-150x225-01_864.png",
+        imagem: "https://cdn2.unrealengine.com/fneco-keyart-25-layered-1200x1200-1200x1200-5706180c6d33.jpg",
         descricao: "Fortnite é um jogo eletrônico multijogador gratuito e plataforma online desenvolvido pela Epic Games"
     },
 
