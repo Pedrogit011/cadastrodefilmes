@@ -40,7 +40,7 @@ const jogos = [
   const listaJogos = document.getElementById ("listaJogos");
   function mostrarJogos(lista) {
     listaJogos.innerHTML =""
-    lista.forEach(jogos => {
+    lista.forEach(jogo => {
         listaJogos.innerHTML += `
          <div class="col-md-4">
            <div class="card card-filme h-100">
